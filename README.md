@@ -10,7 +10,7 @@
 - Business KPIs: Prefered mode of shipment, Revenue lost to discounts, etc.
 
 ## 📁 Files
-- `_Exploratory Data Analysis on E-Commerce Shipping.ipynb`
+- `Exploratory Data Analysis on E-Commerce Shipping.ipynb`
 - `E-Commerce Shipping Data.xlsx`
 
 ## 📌 Tools Used
