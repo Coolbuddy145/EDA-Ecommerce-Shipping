@@ -7,7 +7,7 @@
 - Missing value handling & outlier detection (IQR method)
 - Univariate & Bivariate analysis
 - Correlation analysis (Heatmap, Boxplot, Barplot)
-- Business KPIs: % Delays, Revenue lost to discounts, etc.
+- Business KPIs: Prefered mode of shipment, Revenue lost to discounts, etc.
 
 ## 📁 Files
 - `_Exploratory Data Analysis on E-Commerce Shipping.ipynb`
