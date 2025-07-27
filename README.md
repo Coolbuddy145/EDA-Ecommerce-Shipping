@@ -1,5 +1,4 @@
 # EDA-Ecommerce-Shipping
-Exploratory Data Analysis on E-Commerce Shipping Dataset
 # Exploratory Data Analysis on E-Commerce Shipping Dataset
 
 📊 This project explores a real-world dataset to identify insights related to shipping performance, delays, product costs, and discounts.
